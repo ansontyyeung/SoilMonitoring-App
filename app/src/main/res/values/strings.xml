@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">CitySoil</string>
+
+    <string-array name="sensor_status">
+        <item>Sensor Status</item>
+    </string-array>
+
+    <string-array name="sprinkler_status">
+        <item>Sprinkler Status</item>
+    </string-array>
+
+    <string-array name="wifi_status">
+        <item>Wifi Status</item>
+        <item>Stable</item>
+        <item>Excellent</item>
+        <item>Good</item>
+        <item>Poor</item>
+        <item>Unstable</item>
+    </string-array>
+
+    <string-array name="cloud_status">
+        <item>Cloud connection status</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="sp5">
+        <item>Weather Report</item>
+        <item>Cabenit 1</item>
+        <item>Cabenit 2</item>
+    </string-array>
+
+    <string-array name="storage">
+        <item>By location</item>
+        <item>Cabinet 2</item>
+        <item>Cabinet 1</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>By category</item>
+        <item>Meats</item>
+        <item>Milk</item>
+        <item>Fruits</item>
+        <item>Veggies</item>
+    </string-array>
+
+    <string-array name="category_2">
+        <item>By category</item>
+        <item>Call from previous</item>>
+    </string-array>
+
+    <string-array name="by_Type">
+        <item>By type</item>
+        <item>Semi-cooked</item>>
+        <item>Cooked stored</item>>
+        <item>Raw - opened</item>>
+        <item>Raw - packed</item>>
+        <item>In-container</item>>
+        <item>Out-container</item>>
+    </string-array>
+
+    <string-array name="v_report">
+        <item>View report</item>
+        <item>History</item>>
+        <item>Graphs</item>>
+    </string-array>
+
+    <string-array name="v_download">
+        <item>Download</item>
+        <item>Specific period</item>>
+        <item>Batch download</item>>
+    </string-array>
+
+    <string-array name="v_com">
+        <item>Timeline wise</item>
+        <item>SUsage wise</item>>
+        <item>Items wise</item>>
+        <item>Usage vs time wise</item>>
+    </string-array>
+
+</resources>
+
+
