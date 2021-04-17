@@ -1,4 +1,4 @@
-# CitySoilApp
+# SoilMonitoring-App
 
 This Application is designed for EE3070 IoT Group Project. Software part is fully contributed by YEUNG Tung Yan.
 
