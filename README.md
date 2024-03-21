@@ -18,11 +18,8 @@ As the above picture shown, Android Studio is for app development. MQTT for remo
 
 =================================================================
 
-项目示范 Project Demonstration: https://youtu.be/06MW89oNJlY 
+Personal Project Demonstration: https://youtu.be/06MW89oNJlY 
 
-项目介绍 Project Presentation: https://youtu.be/UO5W-vqJygI
+Personal Project Presentation: https://youtu.be/UO5W-vqJygI
 
-百度网盘 (项目示范+项目介绍)
-链接: https://pan.baidu.com/s/1Byx0ETbsiHTEvjv5IHYYxw 提取码: c2rg
-
-Created by YEUNG Tung Yan.
+Group Project presentation: https://youtu.be/QgsZyKoRd2s?si=70WXMgmkwinW7pxU
